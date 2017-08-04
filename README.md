@@ -20,6 +20,11 @@ applications
 - [A Byte of Python](http://python.swaroopch.com/io.html)
 - [How to Think Like a Computer Scientist (HTLCS)](http://openbookproject.net/thinkcs/python/english3e/)
 
+### Online resources
+- [Python documentation](https://www.python.org/doc/)
+- [The Python tutorial](https://docs.python.org/3/tutorial/index.html)
+- [LearnPython.org](https://www.learnpython.org/)
+
 ### Lectures
 
 1. Introduction to computer and programming
