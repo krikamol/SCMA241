@@ -14,3 +14,27 @@ applications
 - Location: M-301 (lecture) and R-203 (lab)
 - Prerequisites: None
 - [Syllabus](./syllabus.pdf)
+
+### Textbooks
+- Starting Out with Python, 3rd Edition
+- [A Byte of Python](http://python.swaroopch.com/io.html)
+- [How to Think Like a Computer Scientist (HTLCS)](http://openbookproject.net/thinkcs/python/english3e/)
+
+### Lectures
+
+1. Introduction to computer and programming
+2. Flowchart and pseudocode
+3. Variables and types
+4. Elementary operations
+5. Control flows
+6. List and tuple
+7. String
+8. Function and module
+9. Recursion
+10. Dictionary and set
+11. File and exception
+12. Advanced topics
+
+### Group project
+
+The guideline of the group project will be informed in class.
