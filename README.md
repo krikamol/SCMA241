@@ -13,4 +13,4 @@ applications
 - Date/Time: Friday 10am-12am (lecture) and 1pm-3pm (lab)
 - Location: M-301 (lecture) and R-203 (lab)
 - Prerequisites: None
-- [Syllabus](#)
+- [Syllabus](./syllabus.pdf)
