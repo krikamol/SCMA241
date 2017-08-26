@@ -31,3 +31,5 @@ Draw a flowchart for each of the following programs.
   2) x is not divisible by y (for example if x=6 and y=4)
 
 - a program that gets an input integer and check if it is the prime number.
+
+- a program that get an input integer and calculates its factorial (n!). 
