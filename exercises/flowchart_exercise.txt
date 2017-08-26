@@ -20,3 +20,14 @@ Draw a flowchart for each of the following programs.
   3) print "Grade C" if 60 < score <= 70
   4) print "Grade D" if 50 < score <= 60
   5) print "Grade F" if score <= 50
+
+- a program that gets two input integers, x and y,
+  where x < y, and prints all the integers between 
+  x and y.
+
+- a program that gets two input integers, x and y, and check if x is divisible
+  by y. The program can, for example, print the following messages:
+  1) x is divisible by y (for example if x=6 and y=3)
+  2) x is not divisible by y (for example if x=6 and y=4)
+
+- a program that gets an input integer and check if it is the prime number.
