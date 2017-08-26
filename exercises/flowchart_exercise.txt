@@ -1,4 +1,22 @@
 
-Draw a flowchart for each of the following exercises.
+Draw a flowchart for each of the following programs.
 
-- 
+- a program that gets radius of a circle and calculate the area and 
+  the perimeter of the circle.
+
+- a program that gets width and height of the rectangle and calculate 
+  the area and the perimeter of the rectangle.
+
+- a program that gets an integer as an input and print the following 
+  message:
+  1) print "DIVISIBLE BY 3" if the number is divisible by 3
+  2) print "DIVISIBLE BY 5" if the number is divisible by 5
+  3) print "DIVISIBLE BY 3 and 5" if the number if divisible by both 3 and 5
+
+- a program that gets the score and determines the grade of the student. 
+  The program should print the following message:
+  1) print "Grade A" if 80 < score <= 100
+  2) print "Grade B" if 70 < score <= 80
+  3) print "Grade C" if 60 < score <= 70
+  4) print "Grade D" if 50 < score <= 60
+  5) print "Grade F" if score <= 50
