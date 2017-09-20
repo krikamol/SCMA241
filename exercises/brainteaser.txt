@@ -16,3 +16,4 @@ Example: 4 = 2 + 2
     Input : [1 2 2 3 3 4 1]
     Output : 4
 
+- Write a program that converts a column title as appears in an Excel sheet (e.g., A,B,...Z,AA,AB,...) to its corresponding column number (e.g., 1,2,...26,27,28,...).
