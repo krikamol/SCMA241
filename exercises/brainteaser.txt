@@ -6,3 +6,10 @@ Example: 4 = 2 + 2
 - Given a positive integer, write a program that finds if it can be expressed as A^B where A > 1 and B > 0 where A and B both should be integers.
 
 - Given 2 non-negative integers m and n, find gcd(m, n). The greatest common divisor (GCD) of 2 integers m and n is defined as the greatest integer g such that g is a divisor of both m and n.
+
+- Given an array of integers, every element appears twice except for one. Find that single one.
+
+  Example :
+
+    Input : [1 2 2 3 3 4 1]
+    Output : 4
