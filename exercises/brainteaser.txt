@@ -1,5 +1,7 @@
 These are some of the brainteaser problems that are challenging and are helpful for practicing your programming. 
 
+- Given a positive number greater than 1, write a program that check if it is a prime number.
+
 - Given an even number that is greater than 2, write a program that returns two prime numbers whose sum will 
 be equal to given number (see Goldbach's conjecture).  
 
